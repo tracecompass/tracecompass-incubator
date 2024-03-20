@@ -1,3 +1,5 @@
+# This is moved to https://github.com/eclipse-tracecompass-incubator/org.eclipse.tracecompass.incubator
+
 # Eclipse Trace Compass Incubator
 
 This source tree contains the source code for Trace Compass Incubator plugins.
